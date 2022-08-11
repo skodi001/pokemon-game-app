@@ -1,4 +1,4 @@
-﻿# pokemon-game-app
+ # Pokemon Game - [Demo](https://candid-paprenjak-f67806.netlify.app/)
 
 In this game, you will be able to play a pokemon game where you will be given randomly four pictures with different EXP. There is a logic to automatically calculate one hand and the second hand. Once it is calculated, it automatically shows loser and winner. As a nature, I chose the winner to be green, and the loser to be red. 
 
